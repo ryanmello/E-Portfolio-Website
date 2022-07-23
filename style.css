@@ -323,6 +323,55 @@ PROJECTS
     text-decoration: none;
 }
 
+/*
+
+FOOTER
+
+*/
+
+footer{
+    background-color: #242424;
+}
+
+.footer__logo--image{
+    width: 70px;
+    height: 70px;
+    
+}
+
+.footer__row{
+    padding: 8% 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer__social--link{
+    color: #fff;
+    text-decoration: none;
+}
+
+.footer__copyright{
+    color: #fff;
+}
+
+.footer__logo{
+    margin-bottom: 20px;
+}
+
+.footer__social--list{
+    margin-bottom: 28px;
+    width: 100%;
+    max-width: 500px;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
+
+
 
 
 
